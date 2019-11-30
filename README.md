@@ -1,2 +1,2 @@
 # Deep-learning
-Deep learning semester 1
+Multi-label image classification using various CNN architecture
