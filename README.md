@@ -142,7 +142,7 @@ Model             |Accuracy  |
  
  Table 3: Accuracy results from three different models when of the layers were frozen
  
- !(deep multi_label image classification.JPG)
+ !(https://github.com/Mimimkh/Deep-learning/blob/master/deep%20multi_label%20image%20classification.JPG)
  
  Discussion
 In the course of this study we found that ResnetInceptionV2 outperforms other models such as
