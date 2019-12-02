@@ -142,6 +142,8 @@ Model             |Accuracy  |
  
  Table 3: Accuracy results from three different models when of the layers were frozen
  
+ !(deep multi_label image classification.JPG)
+ 
  Discussion
 In the course of this study we found that ResnetInceptionV2 outperforms other models such as
 VGG16 and Resnet50 by far, this is due the fact that ResnetInception model combines techniques
