@@ -104,6 +104,7 @@ implementation, the experiments conducted and the results achieved.
 Labels   |Total images  |
  :-:     | :-:          |
  20      | 31925        |
+ 
  Table 1: Summary of data set used in our experiments
  
  Implementation
@@ -130,6 +131,7 @@ Model             |Accuracy  |
  ResnetInceptionV2| 86.0298% |
  Resnet50         | 70.7712% |
  VGG16            | 69.0368% |
+ 
  Table 2: Accuracy results from three different models when all of the layers were trained
  
  Model             |Accuracy |
